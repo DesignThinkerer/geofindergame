@@ -1,1 +1,1 @@
-geomaster is a game that help you learn geography. It uses spaced repetition.
+geomaster is a free and open source game that help you learn geography. It uses spaced repetition. The svg map is from https://mapsvg.com/maps/geo-calibrated/world.svg
